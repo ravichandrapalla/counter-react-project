@@ -1,0 +1,24 @@
+button {
+  font-size: 2rem;
+  background-color: green;
+  color: white;
+  border: none;
+  border: 2px solid green;
+  display: inline;
+  margin: 2rem;
+  border-radius: 5px;
+  padding: 1rem;
+}
+button:hover {
+  background-color: rgb(6, 190, 6);
+}
+div.main-section {
+  margin: auto;
+  width: 60rem;
+  padding: 10px;
+}
+div.count-text-display {
+  color: white;
+  display: inline;
+  font-size: 2rem;
+}

@@ -1,0 +1,12 @@
+div.App {
+  margin: auto;
+  margin-top: 20rem;
+  width: 60rem;
+  border-radius: 10px;
+  background-color: rgb(160, 5, 5);
+  text-align: center;
+  align-items: center;
+}
+div.App:hover {
+  background-color: rgb(66, 3, 3);
+}
